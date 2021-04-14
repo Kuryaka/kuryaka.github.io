@@ -1,17 +1,3 @@
----
-title: Home
----
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <h1>{{ "Hello World!" | uppercase }}</h1>
-  </body>
-</html>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Kuryaka/kuryaka.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
